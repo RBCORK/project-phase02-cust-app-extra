@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/project-phase02-cust-app/static/css/main.1c9b3e01.css",
-    "main.js": "/project-phase02-cust-app/static/js/main.22277635.js",
-    "index.html": "/project-phase02-cust-app/index.html",
-    "main.1c9b3e01.css.map": "/project-phase02-cust-app/static/css/main.1c9b3e01.css.map",
-    "main.22277635.js.map": "/project-phase02-cust-app/static/js/main.22277635.js.map"
+    "main.css": "/project-phase02-cust-app-extra/static/css/main.1c9b3e01.css",
+    "main.js": "/project-phase02-cust-app-extra/static/js/main.22277635.js",
+    "index.html": "/project-phase02-cust-app-extra/index.html",
+    "main.1c9b3e01.css.map": "/project-phase02-cust-app-extra/static/css/main.1c9b3e01.css.map",
+    "main.22277635.js.map": "/project-phase02-cust-app-extra/static/js/main.22277635.js.map"
   },
   "entrypoints": [
     "static/css/main.1c9b3e01.css",
